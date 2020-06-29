@@ -1,7 +1,35 @@
 # Files and Directories
 
 ### Creating directories (mkdir)
+
+```console
+santoshsm@santoshsmalagi:~$ pwd
+/home/santoshsm
+```
 ### Copy files and directories (cp)
+
+```console
+santoshsm@santoshsmalagi:~$ pwd
+/home/santoshsm
+```
+
 ### Move and rename files (mv)
+
+```console
+santoshsm@santoshsmalagi:~$ pwd
+/home/santoshsm
+```
+
 ### Remove files and directories (rm)
+
+```console
+santoshsm@santoshsmalagi:~$ pwd
+/home/santoshsm
+```
+
 ### Hard and soft links (ln)
+
+```console
+santoshsm@santoshsmalagi:~$ pwd
+/home/santoshsm
+```
