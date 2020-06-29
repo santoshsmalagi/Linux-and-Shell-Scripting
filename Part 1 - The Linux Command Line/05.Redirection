@@ -1,1 +1,17 @@
+### Displaying a line of text (echo)
+echo is a command that outputs the strings it is being passed as arguments
+
+```console
+santoshsm@santoshsmalagi:~$ echo "Talk is Cheap, Show Me the Code"
+Talk is Cheap, Show Me the Code
+```
+```echo``` command is commonly used in scripts to display a line of text/string on the STDOUT. It can be combined with a redirection operator to write to a file. For example:
+
+```console
+santoshsm@santoshsmalagi:~$ echo "Talk is Cheap, Show Me the Code" > CodingPhilosophy.txt
+```
+### Viewing file contents (less and more)
+
+### Concatenate Files (cat)
+The ```cat``` command reads one or more files and copies them to standard output:
 
