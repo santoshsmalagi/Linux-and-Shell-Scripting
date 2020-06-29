@@ -1,3 +1,7 @@
 # Files and Directories
 
 ### Creating directories (mkdir)
+### Copy files and directories (cp)
+### Move and rename files (mv)
+### Remove files and directories (rm)
+### Hard and soft links (ln)
